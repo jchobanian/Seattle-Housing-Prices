@@ -17,4 +17,4 @@ XGBoost as my final machine learning model
 
 Evaluation models from Sklearn Cross_val_score, GridSearchCV
 
-You can find a blog post about this project <a href="https://medium.com/@blake.chobanian/2a74f1f690c7"> HERE </a>
+You can find a blog post about this project <a href="https://medium.com/@blake.chobanian/to-ad-or-not-to-ad-using-frequentist-and-bayesian-approaches-to-a-b-testing-b0e19cd58d20"> HERE </a>
